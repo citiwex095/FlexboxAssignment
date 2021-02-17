@@ -1,0 +1,42 @@
+.flexbox-container {
+  display: flex;
+  background-color: white;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.burger-king-1 {
+  width: 450px;
+  justify-content: flex-start;
+}
+
+.burger-king-2 {
+  justify-content: flex-end;
+}
+
+.flexbox-item {
+  width: 250px;
+  margin: 10px;
+  border: white;
+  background-color: white;
+}
+
+.flexbox-item-1 {
+  min-height: 100px;
+}
+
+.flexbox-item-2 {
+  min-height: 100px;
+}
+
+.flexbox-item-3 {
+  min-height: 100px;
+}
+
+.flexbox-item-4 {
+  min-height: 100px;
+}
+
+.flexbox-item-5 {
+  min-height: 100px;
+}
